@@ -1,9 +1,7 @@
 //
 //  NSObject+Enumerable.m
-//  Mamba
 //
-//  Created by Hellier on 08.07.13.
-//  Copyright (c) 2013 Mamba. All rights reserved.
+//  Created by Ovchynnykov Eugene on 08.07.13.
 //
 
 #import "NSObject+Enumerable.h"
